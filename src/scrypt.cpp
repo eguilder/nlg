@@ -34,7 +34,6 @@
 #include "pbkdf2.h"
 
 #include "util.h"
-#include "net.h"
 
 #define SCRYPT_BUFFER_SIZE (131072 + 63)
 

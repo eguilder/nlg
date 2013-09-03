@@ -1,9 +1,9 @@
+#include "wallet.h"
+#include "base58.h"
+
 #include "addresstablemodel.h"
 #include "guiutil.h"
 #include "walletmodel.h"
-
-#include "wallet.h"
-#include "base58.h"
 
 #include <QFont>
 #include <QColor>

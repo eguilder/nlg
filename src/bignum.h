@@ -5,11 +5,11 @@
 #ifndef BITCOIN_BIGNUM_H
 #define BITCOIN_BIGNUM_H
 
+#include "util.h" // for uint64
+
 #include <stdexcept>
 #include <vector>
 #include <openssl/bn.h>
-
-#include "util.h" // for uint64
 
 /** Errors thrown by the bignum class */
 class bignum_error : public std::runtime_error

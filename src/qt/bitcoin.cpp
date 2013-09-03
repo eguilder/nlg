@@ -1,16 +1,17 @@
 /*
  * W.J. van der Laan 2011-2012
  */
+
+#include "init.h"
+#include "ui_interface.h"
+#include "qtipcserver.h"
+
 #include "bitcoingui.h"
 #include "clientmodel.h"
 #include "walletmodel.h"
 #include "optionsmodel.h"
 #include "guiutil.h"
 #include "guiconstants.h"
-
-#include "init.h"
-#include "ui_interface.h"
-#include "qtipcserver.h"
 
 #include <QApplication>
 #include <QMessageBox>

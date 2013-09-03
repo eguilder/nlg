@@ -1,9 +1,9 @@
-#include "guiutil.h"
-#include "bitcoinaddressvalidator.h"
-#include "walletmodel.h"
-#include "bitcoinunits.h"
 #include "util.h"
 #include "init.h"
+#include "walletmodel.h"
+#include "bitcoinunits.h"
+#include "guiutil.h"
+#include "bitcoinaddressvalidator.h"
 
 #include <QString>
 #include <QDateTime>

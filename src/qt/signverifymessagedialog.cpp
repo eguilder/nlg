@@ -1,7 +1,3 @@
-#include "signverifymessagedialog.h"
-#include "ui_signverifymessagedialog.h"
-
-#include "addressbookpage.h"
 #include "base58.h"
 #include "guiutil.h"
 #include "init.h"
@@ -9,6 +5,10 @@
 #include "optionsmodel.h"
 #include "walletmodel.h"
 #include "wallet.h"
+
+#include "signverifymessagedialog.h"
+#include "ui_signverifymessagedialog.h"
+#include "addressbookpage.h"
 
 #include <string>
 #include <vector>

@@ -195,7 +195,6 @@ namespace Checkpoints
                     return error("AcceptPendingSyncCheckpoint: SetBestChain failed for sync checkpoint %s", hashPendingCheckpoint.ToString().c_str());
                 }
             }
-
 #ifndef USE_LEVELDB
             txdb.Close();
 #endif
@@ -288,11 +287,9 @@ namespace Checkpoints
             {
                 return error("ResetSyncCheckpoint: SetBestChain failed for hardened checkpoint %s", hash.ToString().c_str());
             }
-
 #ifndef USE_LEVELDB
             txdb.Close();
 #endif
-
         }
         else if(!mapBlockIndex.count(hash))
         {
@@ -458,11 +455,9 @@ bool CSyncCheckpoint::ProcessSyncCheckpoint(CNode* pfrom)
             return error("ProcessSyncCheckpoint: SetBestChain failed for sync checkpoint %s", hashCheckpoint.ToString().c_str());
         }
     }
-
 #ifndef USE_LEVELDB
     txdb.Close();
 #endif
-
     if (!Checkpoints::WriteSyncCheckpoint(hashCheckpoint))
         return error("ProcessSyncCheckpoint(): failed to write sync checkpoint %s", hashCheckpoint.ToString().c_str());
     Checkpoints::checkpointMessage = *this;

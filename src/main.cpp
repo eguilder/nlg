@@ -2795,7 +2795,6 @@ bool LoadBlockIndex(bool fAllowNew)
 #ifndef USE_LEVELDB
         txdb.Close();
 #endif
-
     }
 
     return true;

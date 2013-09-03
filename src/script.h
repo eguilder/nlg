@@ -5,14 +5,15 @@
 #ifndef H_BITCOIN_SCRIPT
 #define H_BITCOIN_SCRIPT
 
+#include "keystore.h"
+#include "bignum.h"
+
 #include <string>
 #include <vector>
 
 #include <boost/foreach.hpp>
 #include <boost/variant.hpp>
 
-#include "keystore.h"
-#include "bignum.h"
 
 typedef std::vector<unsigned char> valtype;
 

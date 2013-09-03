@@ -8,10 +8,10 @@
 #include <stdexcept>
 #include <vector>
 
+#include "util.h"
 #include "allocators.h"
 #include "serialize.h"
 #include "uint256.h"
-#include "util.h"
 
 #include <openssl/ec.h> // for EC_KEY definition
 

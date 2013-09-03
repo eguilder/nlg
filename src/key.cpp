@@ -2,12 +2,13 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
+#include "key.h"
+
 #include <map>
 
 #include <openssl/ecdsa.h>
 #include <openssl/obj_mac.h>
 
-#include "key.h"
 
 // Generate a private key from just the secret parameter
 int EC_KEY_regenerate_key(EC_KEY *eckey, BIGNUM *priv_key)

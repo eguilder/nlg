@@ -6,18 +6,18 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About NovaCoin</source>
-        <translation>About NovaCoin</translation>
+        <source>About eGuilder</source>
+        <translation>About eGuilder</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;NovaCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;NovaCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;eGuilder&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;eGuilder&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2012 The NovaCoin developers</source>
-        <translation>Copyright © 2009-2012 The NovaCoin developers</translation>
+        <source>Copyright © 2009-2012 The eGuilder developers</source>
+        <translation>Copyright © 2009-2012 The eGuilder developers</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -64,8 +64,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your NovaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your NovaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your eGuilder addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your eGuilder addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,8 +79,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a NovaCoin address</source>
-        <translation>Sign a message to prove you own a NovaCoin address</translation>
+        <source>Sign a message to prove you own a eGuilder address</source>
+        <translation>Sign a message to prove you own a eGuilder address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,8 +94,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified NovaCoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified NovaCoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified eGuilder address</source>
+        <translation>Verify a message to ensure it was signed with a specified eGuilder address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -252,8 +252,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>NovaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>NovaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>eGuilder will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>eGuilder will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -366,8 +366,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about NovaCoin</source>
-        <translation>Show information about NovaCoin</translation>
+        <source>Show information about eGuilder</source>
+        <translation>Show information about eGuilder</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Send coins to a NovaCoin address</source>
-        <translation>Send coins to a NovaCoin address</translation>
+        <source>Send coins to a eGuilder address</source>
+        <translation>Send coins to a eGuilder address</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for NovaCoin</source>
-        <translation>Modify configuration options for NovaCoin</translation>
+        <source>Modify configuration options for eGuilder</source>
+        <translation>Modify configuration options for eGuilder</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -464,8 +464,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-186"/>
-        <source>NovaCoin</source>
-        <translation>NovaCoin</translation>
+        <source>eGuilder</source>
+        <translation>eGuilder</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -474,8 +474,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+168"/>
-        <source>&amp;About NovaCoin</source>
-        <translation>&amp;About NovaCoin</translation>
+        <source>&amp;About eGuilder</source>
+        <translation>&amp;About eGuilder</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -516,15 +516,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>NovaCoin client</source>
-        <translation>NovaCoin client</translation>
+        <source>eGuilder client</source>
+        <translation>eGuilder client</translation>
     </message>
     <message numerus="yes">
         <location line="+69"/>
-        <source>%n active connection(s) to NovaCoin network</source>
+        <source>%n active connection(s) to eGuilder network</source>
         <translation>
-            <numerusform>%n active connection to NovaCoin network</numerusform>
-            <numerusform>%n active connections to NovaCoin network</numerusform>
+            <numerusform>%n active connection to eGuilder network</numerusform>
+            <numerusform>%n active connections to eGuilder network</numerusform>
         </translation>
     </message>
     <message>
@@ -621,8 +621,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid NovaCoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid NovaCoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid eGuilder address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid eGuilder address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -656,8 +656,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. NovaCoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. NovaCoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. eGuilder can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. eGuilder can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -991,8 +991,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+5"/>
-        <source>The entered address &quot;%1&quot; is not a valid NovaCoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid NovaCoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid eGuilder address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid eGuilder address.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1010,8 +1010,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>NovaCoin-Qt</source>
-        <translation>NovaCoin-Qt</translation>
+        <source>eGuilder-Qt</source>
+        <translation>eGuilder-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1073,13 +1073,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start NovaCoin after logging in to the system.</source>
-        <translation>Automatically start NovaCoin after logging in to the system.</translation>
+        <source>Automatically start eGuilder after logging in to the system.</source>
+        <translation>Automatically start eGuilder after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start NovaCoin on system login</source>
-        <translation>&amp;Start NovaCoin on system login</translation>
+        <source>&amp;Start eGuilder on system login</source>
+        <translation>&amp;Start eGuilder on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1098,8 +1098,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the NovaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the NovaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the eGuilder client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the eGuilder client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1108,8 +1108,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the NovaCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the NovaCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the eGuilder network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the eGuilder network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1183,8 +1183,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting NovaCoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting NovaCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting eGuilder.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting eGuilder.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1198,8 +1198,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show NovaCoin addresses in the transaction list or not.</source>
-        <translation>Whether to show NovaCoin addresses in the transaction list or not.</translation>
+        <source>Whether to show eGuilder addresses in the transaction list or not.</source>
+        <translation>Whether to show eGuilder addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1245,8 +1245,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting NovaCoin.</source>
-        <translation>This setting will take effect after restarting NovaCoin.</translation>
+        <source>This setting will take effect after restarting eGuilder.</source>
+        <translation>This setting will take effect after restarting eGuilder.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1264,8 +1264,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+212"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the NovaCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the NovaCoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eGuilder network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the eGuilder network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-170"/>
@@ -1480,8 +1480,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the NovaCoin-Qt help message to get a list with possible NovaCoin command-line options.</source>
-        <translation>Show the NovaCoin-Qt help message to get a list with possible NovaCoin command-line options.</translation>
+        <source>Show the eGuilder-Qt help message to get a list with possible eGuilder command-line options.</source>
+        <translation>Show the eGuilder-Qt help message to get a list with possible eGuilder command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1500,13 +1500,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>NovaCoin - Debug window</source>
-        <translation>NovaCoin - Debug window</translation>
+        <source>eGuilder - Debug window</source>
+        <translation>eGuilder - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>NovaCoin Core</source>
-        <translation>NovaCoin Core</translation>
+        <source>eGuilder Core</source>
+        <translation>eGuilder Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1515,8 +1515,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the NovaCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the NovaCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the eGuilder debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the eGuilder debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1525,8 +1525,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the NovaCoin RPC console.</source>
-        <translation>Welcome to the NovaCoin RPC console.</translation>
+        <source>Welcome to the eGuilder RPC console.</source>
+        <translation>Welcome to the eGuilder RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1684,8 +1684,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
-        <translation type="unfinished">Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
+        <source>Enter a eGuilder address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
+        <translation type="unfinished">Enter a eGuilder address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1858,8 +1858,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
-        <translation>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
+        <source>Enter a eGuilder address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
+        <translation>Enter a eGuilder address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
     </message>
 </context>
 <context>
@@ -1919,8 +1919,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this NovaCoin address</source>
-        <translation>Sign the message to prove you own this NovaCoin address</translation>
+        <source>Sign the message to prove you own this eGuilder address</source>
+        <translation>Sign the message to prove you own this eGuilder address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1951,8 +1951,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified NovaCoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified NovaCoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified eGuilder address</source>
+        <translation>Verify the message to ensure it was signed with the specified eGuilder address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1962,8 +1962,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
-        <translation>Enter a NovaCoin address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
+        <source>Enter a eGuilder address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
+        <translation>Enter a eGuilder address (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1972,8 +1972,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter NovaCoin signature</source>
-        <translation>Enter NovaCoin signature</translation>
+        <source>Enter eGuilder signature</source>
+        <translation>Enter eGuilder signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2548,8 +2548,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+124"/>
-        <source>NovaCoin version</source>
-        <translation>NovaCoin version</translation>
+        <source>eGuilder version</source>
+        <translation>eGuilder version</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -2577,13 +2577,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+23"/>
-        <source>Specify configuration file (default: novacoin.conf)</source>
-        <translation>Specify configuration file (default: novacoin.conf)</translation>
+        <source>Specify configuration file (default: eguilder.conf)</source>
+        <translation>Specify configuration file (default: eguilder.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: novacoind.pid)</source>
-        <translation>Specify pid file (default: novacoind.pid)</translation>
+        <source>Specify pid file (default: eguilderd.pid)</source>
+        <translation>Specify pid file (default: eguilderd.pid)</translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
@@ -2740,8 +2740,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong NovaCoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong NovaCoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eGuilder will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eGuilder will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2846,7 +2846,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or novacoind</source>
+        <source>Send command to -server or eguilderd</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3010,13 +3010,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-129"/>
-        <source>Cannot obtain a lock on data directory %s.  NovaCoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  NovaCoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  eGuilder is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  eGuilder is probably already running.</translation>
     </message>
     <message>
         <location line="+99"/>
-        <source>NovaCoin</source>
-        <translation>NovaCoin</translation>
+        <source>eGuilder</source>
+        <translation>eGuilder</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -3050,13 +3050,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of NovaCoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of NovaCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of eGuilder</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of eGuilder</translation>
     </message>
     <message>
         <location line="+76"/>
-        <source>Wallet needed to be rewritten: restart NovaCoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart NovaCoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart eGuilder to complete</source>
+        <translation>Wallet needed to be rewritten: restart eGuilder to complete</translation>
     </message>
     <message>
         <location line="-78"/>
@@ -3125,8 +3125,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-22"/>
-        <source>Unable to bind to %s on this computer. NovaCoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. NovaCoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. eGuilder is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. eGuilder is probably already running.</translation>
     </message>
     <message>
         <location line="+49"/>

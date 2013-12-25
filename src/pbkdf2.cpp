@@ -1,4 +1,4 @@
-// Copyright (c) 2013 NovaCoin Developers
+// Copyright (c) 2013 eGuilder Developers
 
 #include <string.h>
 #include "pbkdf2.h"

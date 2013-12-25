@@ -1388,7 +1388,7 @@ bool CWallet::CreateTransaction(CScript scriptPubKey, int64 nValue, CWalletTx& w
     return CreateTransaction(vecSend, wtxNew, reservekey, nFeeRet, coinControl);
 }
 
-// NovaCoin: get current stake weight
+// eGuilder: get current stake weight
 uint64 CWallet::GetStakeWeight(const CKeyStore& keystore, enum StakeWeightMode mode)
 {
     LOCK2(cs_main, cs_wallet);

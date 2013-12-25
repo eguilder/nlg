@@ -1,6 +1,6 @@
 [Protocol]
-exec=novacoin-qt '%u'
-protocol=novacoin
+exec=eguilder-qt '%u'
+protocol=eguilder
 input=none
 output=none
 helper=true

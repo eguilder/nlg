@@ -1,0 +1,2 @@
+debian/bin/eguilderd usr/bin
+src/eguilderd usr/lib/eguilder

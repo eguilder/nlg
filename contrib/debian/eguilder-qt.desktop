@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=eGuilder
+Comment=eGuilder P2P Cryptocurrency
+Comment[fr]=eGuilder, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=eGuilder, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/eguilder-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/eguilder;
+Categories=Office;

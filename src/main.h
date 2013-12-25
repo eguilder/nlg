@@ -920,7 +920,7 @@ public:
     // ppcoin: entropy bit for stake modifier if chosen by modifier
     unsigned int GetStakeEntropyBit(unsigned int nTime) const
     {
-        // Protocol switch to support p2pool at novacoin block #9689
+        // Protocol switch to support p2pool at eguilder block #9689
         if (nTime >= ENTROPY_SWITCH_TIME || fTestNet)
         {
             // Take last bit of block hash as entropy bit
@@ -929,7 +929,7 @@ public:
                 printf("GetStakeEntropyBit: nTime=%u hashBlock=%s nEntropyBit=%u\n", nTime, GetHash().ToString().c_str(), nEntropyBit);
             return nEntropyBit;
         }
-        // Before novacoin block #9689 - old protocol
+        // Before eguilder block #9689 - old protocol
         uint160 hashSig = Hash160(vchBlockSig);
         if (fDebug && GetBoolArg("-printstakemodifier"))
             printf("GetStakeEntropyBit: hashSig=%s", hashSig.ToString().c_str());
